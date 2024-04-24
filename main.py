@@ -32,5 +32,3 @@ if __name__ == '__main__':
         if menu_option == "7":
             full_map(users)
 
-
-svhvshvlkfb
